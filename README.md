@@ -1,6 +1,8 @@
 # pVoice
 Mumble voice chat using FiveM's murmur implementation 
 
+### WARNING: THIS IS NOT MEANT FOR USE YET, IT REQUIRES A MISSING LIBRARY
+
 ## Config file
 *Do not copy paste this, comments are not supported by JSON*
 ```js
